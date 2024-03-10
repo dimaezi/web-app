@@ -1,0 +1,25 @@
+body {
+    background: #f2f3f4;
+}
+
+aside{
+    float: left;
+    width: 20%;
+    padding: 2.5%;
+    height: 100vh;
+    color: black;
+    border-right: 1px solid black;
+
+}
+
+aside img{
+    width: 200px;
+    float: left;
+}
+
+aside .logo{
+    font-size: 40px;
+    margin-left: 10px;
+    font-weight: bold;
+
+}
